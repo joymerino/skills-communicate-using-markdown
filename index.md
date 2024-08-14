@@ -10,3 +10,5 @@ she showed us how to use Badges to add to our page some stats.
 You add in the user account 
 and the site you want information
 then it provides the string for URL, or markdown (as we use here).
+https://shields.io/badges/git-hub-commit-activity
+https://github.com/nmfs-ost/ss3-source-code/blob/main/README.md
